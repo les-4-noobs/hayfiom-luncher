@@ -1,8 +1,8 @@
 {
-  "name": "hayfiom",
+  "name": "helioslauncher",
   "version": "1.8.0",
-  "productName": "Hayfiom launcher",
-  "description": "launcher de hayfiom",
+  "productName": "Helios Launcher",
+  "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
